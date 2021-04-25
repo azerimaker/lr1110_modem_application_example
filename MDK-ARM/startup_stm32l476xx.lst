@@ -681,12 +681,13 @@ ARM Macro Assembler    Page 11
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
 interwork --depend=lr1110_modem_application_examples\startup_stm32l476xx.d -olr
-1110_modem_application_examples\startup_stm32l476xx.o -I.\RTE\_lr1110_modem_LoR
-aWAN_US915 -IC:\Users\bboulet\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Cor
-e\Include -IC:\Users\bboulet\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.2.0\D
-rivers\CMSIS\Device\ST\STM32L4xx\Include --predefine="__MICROLIB SETA 1" --pred
-efine="__UVISION_VERSION SETA 529" --predefine="_RTE_ SETA 1" --predefine="STM3
-2L476xx SETA 1" --list=startup_stm32l476xx.lst startup_stm32l476xx.s
+1110_modem_application_examples\startup_stm32l476xx.o -I.\RTE\_lr1110_modem_tra
+cker_EU868 -IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\
+Include -IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.5.0\Drive
+rs\CMSIS\Device\ST\STM32L4xx\Include --predefine="__MICROLIB SETA 1" --predefin
+e="__UVISION_VERSION SETA 534" --predefine="_RTE_ SETA 1" --predefine="STM32L47
+6xx SETA 1" --predefine="_RTE_ SETA 1" --list=startup_stm32l476xx.lst startup_s
+tm32l476xx.s
 
 
 
